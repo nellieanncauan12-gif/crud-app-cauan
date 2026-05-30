@@ -1,3 +1,3 @@
 # CRUD Application using Vue, Express & Supabase
 
-Author: Vernyll Jan P. Asis
+Author: NELLIE ANN CAUAN, ALONA CASTILLO, ALLENJAKE HULLANA
